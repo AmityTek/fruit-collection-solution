@@ -3,7 +3,3 @@ controllers:
         path: ../src/Controller/
         namespace: App\Controller
     type: attribute
-
-item_api:
-    resource: '../src/Controller/CollectionController.php'
-    type: annotation
